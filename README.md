@@ -15,10 +15,11 @@ The software package can be installed and runned on Linux, Windows, and MacOS (x
 Dependency of Python and Python packages: 
 
 ```bash
-python >= 3.9 \
-numpy >= 1.24 \
-torch >= 1.10 \
-
+python >= 3.9 
+numpy
+scipy
+torch 
+tqdm
 ```
 
 ## Installation from sources
