@@ -10,6 +10,17 @@ Identifying transitional states is crucial for understanding protein conformatio
 
 ## Installation from sources
 
+The software package can be installed and runned on Linux, Windows, and MacOS (x86_64)
+
+Dependency of Python and Python packages: 
+
+```bash
+python >= 3.9,
+
+
+
+## Installation from sources
+
 The source code can be installed with a local clone:
 
 ```bash
@@ -23,7 +34,11 @@ python -m pip install ./ts-dart
 
 ### Start with jupyter notebook
 
-Check this file:
+Check these two files for the demo:
+
+```
+./ts-dart/example/muller-example.ipynb
+```
 
 ```
 ./ts-dart/example/quadruple-well-example.ipynb
