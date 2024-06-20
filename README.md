@@ -8,7 +8,7 @@ Identifying transitional states is crucial for understanding protein conformatio
 
 ![figure](./docs/figs/fig1.png)
 
-## Installation from sources
+## System requires
 
 The software package can be installed and runned on Linux, Windows, and MacOS (x86_64)
 
