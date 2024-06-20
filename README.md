@@ -12,7 +12,7 @@ Identifying transitional states is crucial for understanding protein conformatio
 
 The software package can be installed and runned on Linux, Windows, and MacOS (x86_64)
 
-Dependency of Python and Python packages: 
+Dependency of Python and Python packages (suggested): 
 
 ```bash
 python >= 3.9 
@@ -21,6 +21,7 @@ scipy
 torch 
 tqdm
 ```
+The required dependencies of python packages will be automatically installed by following the instructions below
 
 ## Installation from sources
 
