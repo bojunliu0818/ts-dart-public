@@ -16,12 +16,12 @@ Dependency of Python and Python packages (suggested):
 
 ```bash
 python >= 3.9 
-numpy
-scipy
+numpy >= 1.24
+scipy 
 torch 
 tqdm
 ```
-The required dependencies of python packages will be automatically installed by following the instructions below
+The required dependencies of python packages will be automatically installed by following the instructions provided below
 
 ## Installation from sources
 
