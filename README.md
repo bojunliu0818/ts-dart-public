@@ -89,7 +89,7 @@ TS-DART refers to the preprint [10.26434/chemrxiv-2024-r8gjv](https://chemrxiv.o
 
 We already added the example of Muller potential reported in this preprint to the repo. 
 
-To reproduce the results of the other datasets reported in this preprint, please refer to the dataset and training details in Methods section or contact bliu293@wisc.edu.
+To reproduce the results of the other datasets reported in this preprint, please refer to the Methods section or contact bliu293@wisc.edu.
 
 ## Reference
 
