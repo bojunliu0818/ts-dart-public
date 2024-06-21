@@ -27,7 +27,7 @@ The required python packages with the latest versions will be automatically inst
 
 The source code can be installed with a local clone:
 
-The most time-consuming step is the installation of PyTorch (especially cuda version). The whole installation procedure should take around 5 mins at a local desktop.
+The most time-consuming step is the installation of PyTorch (especially cuda version) and the whole installation procedure should take around 5 mins in total at a local desktop.
 
 ```bash
 git clone https://github.com/xuhuihuang/ts-dart.git
