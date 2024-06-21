@@ -21,7 +21,7 @@ scipy == 1.11.4
 torch == 1.13.1
 tqdm == 4.66.1
 ```
-The most updated version of the above required python packages will be automatically installed, if these packages are not currently installed in your local python environment.
+The required python packages with the latest versions will be automatically installed if they are not already present in your local Python environment.
 
 ## Installation from sources
 
@@ -38,9 +38,6 @@ git clone https://github.com/xuhuihuang/ts-dart.git
 ```bash
 python -m pip install ./ts-dart
 ```
-Note that the cpu version of PyTorch will be automatically installed, if there is no exisiting PyTorch package in your environment.
-
-Please manually install gpu version of PyTorch if needed. 
 
 ## Quick start
 
