@@ -21,7 +21,7 @@ scipy >= 1.11.4
 torch >= 1.13.1
 tqdm >= 4.66.1
 ```
-The required dependencies of above python packages will be automatically installed by following the instructions provided below
+The required dependencies of above python packages will be automatically installed by following the installation instructions provided below
 
 ## Installation from sources
 
