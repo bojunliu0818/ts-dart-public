@@ -27,7 +27,7 @@ The required python packages with the latest versions will be automatically inst
 
 The source code can be installed with a local clone:
 
-The most time-consuming step is the installation of PyTorch (especially cuda version) and the whole installation procedure should take around 5 mins in total at a local desktop.
+The most time-consuming step is the installation of PyTorch (especially cuda version) and the whole installation procedure takes around 5 mins at a local desktop.
 
 ```bash
 git clone https://github.com/xuhuihuang/ts-dart.git
@@ -53,7 +53,7 @@ Check these two files for the demo:
 
 ### Start with python script (Linux)
 
-The whole training procedure of the following demo on i9-10900k cpu takes around 30mins at local desktop.
+The whole training procedure of the following demo on i9-10900k cpu takes around 30mins at a local desktop.
 
 ```sh
 python ./ts-dart/scripts/train_tsdart.py \
