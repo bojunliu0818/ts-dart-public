@@ -53,6 +53,8 @@ Check these two files for the demo:
 
 ### Start with python script (Linux)
 
+The whole training procedure of the following demo on i9-10900k cpu takes around 30mins at local desktop.
+
 ```sh
 python ./ts-dart/scripts/train_tsdart.py \
     --seed 1 \
