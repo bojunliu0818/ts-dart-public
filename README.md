@@ -23,7 +23,7 @@ scipy == 1.11.4
 torch == 1.13.1
 tqdm == 4.66.1
 ```
-The required python packages with the latest versions will be automatically installed if they are not already present in your local Python environment.
+The required python packages with the latest versions will be automatically installed if these python packages are not already present in your local Python environment.
 
 ## Installation from sources
 
