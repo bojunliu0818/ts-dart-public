@@ -12,7 +12,8 @@ Identifying transitional states is crucial for understanding protein conformatio
 
 The software package can be installed and runned on Linux, Windows, and MacOS (x86_64)
 
-Dependency of Python and Python packages (versions that has been previously tested on, other versions should also work): 
+Dependency of Python and Python packages: 
+(versions that has been previously tested on are listed, other versions should work the same): 
 
 ```bash
 python == 3.9
