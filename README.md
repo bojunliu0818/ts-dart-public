@@ -12,20 +12,24 @@ Identifying transitional states is crucial for understanding protein conformatio
 
 The software package can be installed and runned on Linux, Windows, and MacOS (x86_64)
 
-Dependency of Python and Python packages (suggested): 
+Dependency of Python and Python packages (versions that has been previously tested on, other versions should also work): 
 
 ```bash
-python >= 3.9
-numpy >= 1.26.1
-scipy >= 1.11.4
-torch >= 1.13.1
-tqdm >= 4.66.1
+python == 3.9
+numpy == 1.26.1
+scipy == 1.11.4
+torch == 1.13.1
+tqdm == 4.66.1
 ```
-The required dependencies of above python packages will be automatically installed by following the installation instructions provided below. 
+The most updated version of the above required python packages will be automatically installed, if they are not currently in your local python environment.
 
 ## Installation from sources
 
 The source code can be installed with a local clone:
+
+The most time-consuming step is the installation of PyTorch (especially cuda version). 
+
+The whole installation procedure could be finished around 5 mins at a local desktop.
 
 ```bash
 git clone https://github.com/xuhuihuang/ts-dart.git
@@ -34,7 +38,7 @@ git clone https://github.com/xuhuihuang/ts-dart.git
 ```bash
 python -m pip install ./ts-dart
 ```
-Note that the cpu version of PyTorch will automatically be installed, if there is no exisiting PyTorch package in your environment.
+Note that the cpu version of PyTorch will be automatically installed, if there is no exisiting PyTorch package in your environment.
 
 Please manually install gpu version of PyTorch if needed. 
 
